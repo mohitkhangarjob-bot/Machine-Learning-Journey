@@ -1,45 +1,147 @@
 # 🚀 Machine Learning Journey
 
-Welcome to my Machine Learning Journey.
+Welcome to my Machine Learning Journey! 👋
 
-## 📚 Topics Covered
+This repository documents my progress from Machine Learning fundamentals to becoming an AI/ML Engineer.
 
-- Introduction to Machine Learning
-- Data Preprocessing
-- Feature Scaling
-- Encoding
-- Column Transformer
-- Pipelines
-- Handling Missing Values
-- Exploratory Data Analysis
-- Feature Engineering
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
+I upload notebooks, implementations, datasets, and notes as I learn and build.
 
-## 🛠 Tech Stack
+---
+
+# 📚 Topics Covered
+
+- ✅ Introduction to Machine Learning
+- ✅ Web Scraping
+- ✅ Data Preprocessing
+- ✅ Feature Scaling
+- ✅ Standardization
+- ✅ Normalization
+- ✅ Ordinal Encoding
+- ✅ One-Hot Encoding
+- ✅ Column Transformer
+- ✅ Pipelines
+- ✅ Handling Missing Values
+- ✅ Exploratory Data Analysis (EDA)
+- 🔜 Feature Engineering
+- 🔜 Regression
+- 🔜 Classification
+- 🔜 Clustering
+- 🔜 Model Evaluation
+- 🔜 Hyperparameter Tuning
+- 🔜 Ensemble Learning
+- 🔜 Deep Learning
+
+---
+
+# 📂 Repository Structure
+
+Machine-Learning-Journey/
+
+├── 01-Introduction-to-ML/
+
+├── 02-Web-Scraping/
+
+├── 03-Feature-Scaling/
+
+├── 04-Encoding/
+
+├── 05-Column-Transformer/
+
+├── 06-Pipelines/
+
+├── 07-Handling-Missing-Data/
+
+├── 08-EDA/
+
+├── 09-Feature-Engineering/
+
+├── ...
+
+---
+
+# 🛠 Tech Stack
 
 - Python
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Scikit-Learn
+- Jupyter Notebook
 - Streamlit
 
-## 📂 Projects
+---
 
-- California House Price Prediction
-- Movie Recommendation System
-- More coming soon...
+# 🚀 Projects Completed
 
-- ## 📈 Progress
+## ✅ California House Price Prediction
 
-- ✅ Completed: Day 40 / 100
-- 🎯 Current Topic: DSA + Machine Learning
-- 🚀 Goal: Become an AI/ML Engineer
+Machine Learning Regression Project using California Housing Dataset.
 
-## 🎯 Goal
+Topics Used
 
-Document my complete journey from beginner to AI/ML Engineer through notebooks, projects, and daily practice.
+- Data Cleaning
+- Feature Engineering
+- Regression
+- Model Evaluation
+
+---
+
+## ✅ Movie Recommendation System
+
+Content-Based Recommendation System built using
+
+- Pandas
+- Scikit-Learn
+- NLP
+- Cosine Similarity
+- Streamlit
+- TMDB API
+
+Features
+
+- Movie recommendations
+- Movie posters
+- Streamlit deployment
+
+---
+
+## ✅ AI Reel Generator
+
+Python application for generating AI-powered reels using automation and AI APIs.
+
+---
+
+# 📈 Progress
+
+- ✅ 40 Days of Machine Learning Completed
+- 🚀 Started DSA in Python
+- 🎯 Building AI/ML Portfolio
+- 💻 Daily Coding & GitHub Commits
+
+---
+
+# 📖 Learning Resources
+
+- CampusX
+- CodeWithHarry
+- Scikit-Learn Documentation
+- Kaggle
+- ChatGPT
+
+---
+
+# 🎯 Goal
+
+Become an AI/ML Engineer by mastering
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- Generative AI
+- MLOps
+
+---
+
+⭐ This repository is updated regularly as I continue my AI/ML journey.
